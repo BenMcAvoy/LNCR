@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+members = [
+  "lncr-cli",
+  "lncr-core",
+]
+
+default-members = [
+  "lncr-cli"
+]
